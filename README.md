@@ -5,10 +5,12 @@ I'm a hands-on enthusiast with a background in warehouse management and a genuin
 
 ## Projects
 
-| Name                                    | Description       | Tech/tools        |
-| --------------------------------------- | ----------------- | ----------------- |
-| **Road Trip Planner by The RoadJunkies**| A webapp to do x. | React, Jest, etc. |
-| **Something else worked on**            | A webapp to do y. | Ruby              |
+| Name                                    | Description                                 | Tech/tools        |
+| --------------------------------------- | --------------------------------------------| ----------------- |
+| **[Road Trip Planner by RoadJunkies](https://github.com/FahimIslam2410/Road-Trip-Planner)**|A website app that lets users input start and end points, add waypoints, and receive attraction suggestions based on proximity. They can save routes for future trips, simplifying travel planning.| MERN Stack        |
+| **[Bank Tech Test](https://github.com/FahimIslam2410/Bank-Tech-Test)**|Technical test. Program offers core bank features including deposit/withdraw and print formatted statements|JavaScript, Node, Jest|
+| **[Acebook](https://github.com/FahimIslam2410/acebook-mern-water)**                             | A social platform for user registration, login, post creation, editing, deletion, liking, and friend requests.| MERN Stack        |
+| **[MakersBNB](https://github.com/FahimIslam2410/HFB-makersbnb)**                              |A property booking platform where users can register, log in, browse available properties, check booking availability, request bookings, and list their own properties.| Python, Flask, SQL|
 
 ## Work Experience
 
@@ -31,11 +33,9 @@ _05/2014 - 06/2014_
 - Managed customer account inquiries, offering accurate information to resolve service complaints and guarantee customer satisfaction.
 
 
-- Any experience relevent to software development
-
 ## Skills
 
-**Problem Solving and Learning Agility:** My diverse work experience has equipped me with strong problem-solving skills. As a Warehouse Supervisor at B&Q, I consistently found innovative solutions to improve picking methods, resulting in a 50% reduction in replenishment time. This experience taught me the value of continuous improvement and adapting to new challenges. Additionally, my willingness to learn and adapt to meet necessary goals is reflected in my ongoing efforts to self-learn software development, including coding using Android Studio and mastering various software applications.
+**Problem Solving and Learning Agility:** My diverse work experience has equipped me with strong problem-solving skills. As a Warehouse Supervisor, I consistently found innovative solutions to improve picking methods, resulting in a 50% reduction in replenishment time. This experience taught me the value of continuous improvement and adapting to new challenges. Additionally, my willingness to learn and adapt to meet necessary goals is reflected in my ongoing efforts to self-learn software development, including coding using Android Studio and mastering various software applications.
 
 **Attention to Detail:** As a Warehouse Supervisor, I emphasized accuracy to maintain high customer satisfaction. This skill directly applies to software development, where precision is vital in coding and debugging.
 
@@ -47,26 +47,18 @@ _05/2014 - 06/2014_
 
 In summary, my experiences in problem-solving, attention to detail, time management, IT skills, and self-teaching abilities have provided me with a strong foundation for transitioning into software development. My willingness to learn and adapt, as well as my commitment to continuous improvement, align well with the demands of this dynamic field. I'm excited to leverage these skills and experiences to make a meaningful impact in software development.
 
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+### Makers Academy (June 2023 Cohort)
+During my time at Makers Academy, I had the opportunity to develop valuable skills and knowledge in software development.
+- **Frequently Used Pairing for Problem Solving:** Throughout the bootcamp, I frequently engaged in pair programming to efficiently solve coding challenges. This required strong teamwork and communication skills, as we collaborated to find solutions.
+- **Object-Oriented Design (OOP):** I learned and applied principles of object-oriented design, which is fundamental to building well-structured and maintainable software.
+- **Test-Driven Development (TDD):** I gained experience in test-driven development, where I wrote tests before writing the actual code. This practice ensures software reliability and helps catch bugs early in the development process.
+- **Agile/XP:** I was introduced to Agile and Extreme Programming (XP) methodologies, which emphasize iterative development, frequent collaboration, and customer feedback.
+- **Full-Stack Web Development:** During my time at Makers Academy, I gained proficiency in JavaScript and Python through team projects. Furthermore, I expanded my skillset by learning JavaScript, React, MongoDB, Express, Flask, and Node.js, making me proficient in a wide range of web development technologies.
+- **Swiftly Learning New Languages:** The bootcamp taught me how to quickly learn and adapt to new programming languages and technologies, a valuable skill in the fast-paced tech industry.
+
+My experience at Makers Academy equipped me with a strong foundation in software development and problem-solving, and I'm eager to apply these skills to real-world projects and challenges in the field.
 
 #### Your University / College (start_date to end_date)
 
