@@ -17,6 +17,15 @@ I'm a hands-on enthusiast with a background in warehouse management and a genuin
 
 ## Work Experience
 
+**Makers Academy Bootcamp** 
+_Full Stack Software Engineering_
+_05/2023 - 09/2023_
+
+- Developed object-oriented web applications in Python and JavaScript with a focus on Test-Driven Development (TDD) and pair programming.
+- Proficiently managed both relational (PostgreSQL) and non-relational (MongoDB) databases for diverse projects.
+- Ensured high-quality, production-ready code through the implementation of TDD with Pytest, Jest, and Cypress.
+- Collaborated in agile team projects with daily stand-ups, retrospectives, and rapid delivery cycles, emulating real development team practices using GitHub.
+
 **Warehouse Supervisor**  
 _Ilford, Redbridge_  
 _10/2018 - 07/2022_
@@ -35,6 +44,19 @@ _05/2014 - 06/2014_
 - Handled customer complaints calmly and professionally, consistently providing suitable solutions to ensure continued customer satisfaction.
 - Managed customer account inquiries, offering accurate information to resolve service complaints and guarantee customer satisfaction.
 
+## Education
+
+### Makers Academy (June 2023 Cohort)
+During my time at Makers Academy, I had the opportunity to develop valuable skills and knowledge in software development.
+- **Frequently Used Pairing for Problem Solving:** Throughout the bootcamp, I frequently engaged in pair programming to efficiently solve coding challenges. This required strong teamwork and communication skills, as we collaborated to find solutions.
+- **Object-Oriented Design (OOP):** I learned and applied principles of object-oriented design, which is fundamental to building well-structured and maintainable software.
+- **Test-Driven Development (TDD):** I gained experience in test-driven development, where I wrote tests before writing the actual code. This practice ensures software reliability and helps catch bugs early in the development process.
+- **Agile/XP:** I was introduced to Agile and Extreme Programming (XP) methodologies, which emphasize iterative development, frequent collaboration, and customer feedback.
+- **Full-Stack Web Development:** During my time at Makers Academy, I gained proficiency in JavaScript and Python through team projects. Furthermore, I expanded my skillset by learning JavaScript, React, MongoDB, Express, Flask, and Node.js, making me proficient in a wide range of web development technologies.
+- **Swiftly Learning New Languages:** The bootcamp taught me how to quickly learn and adapt to new programming languages and technologies, a valuable skill in the fast-paced tech industry.
+
+My experience at Makers Academy equipped me with a strong foundation in software development and problem-solving, and I'm eager to apply these skills to real-world projects and challenges in the field.
+
 
 ## Skills
 
@@ -50,20 +72,9 @@ _05/2014 - 06/2014_
 
 In summary, my experiences in problem-solving, attention to detail, time management, IT skills, and self-teaching abilities have provided me with a strong foundation for transitioning into software development. My willingness to learn and adapt, as well as my commitment to continuous improvement, align well with the demands of this dynamic field. I'm excited to leverage these skills and experiences to make a meaningful impact in software development.
 
-## Education
 
-### Makers Academy (June 2023 Cohort)
-During my time at Makers Academy, I had the opportunity to develop valuable skills and knowledge in software development.
-- **Frequently Used Pairing for Problem Solving:** Throughout the bootcamp, I frequently engaged in pair programming to efficiently solve coding challenges. This required strong teamwork and communication skills, as we collaborated to find solutions.
-- **Object-Oriented Design (OOP):** I learned and applied principles of object-oriented design, which is fundamental to building well-structured and maintainable software.
-- **Test-Driven Development (TDD):** I gained experience in test-driven development, where I wrote tests before writing the actual code. This practice ensures software reliability and helps catch bugs early in the development process.
-- **Agile/XP:** I was introduced to Agile and Extreme Programming (XP) methodologies, which emphasize iterative development, frequent collaboration, and customer feedback.
-- **Full-Stack Web Development:** During my time at Makers Academy, I gained proficiency in JavaScript and Python through team projects. Furthermore, I expanded my skillset by learning JavaScript, React, MongoDB, Express, Flask, and Node.js, making me proficient in a wide range of web development technologies.
-- **Swiftly Learning New Languages:** The bootcamp taught me how to quickly learn and adapt to new programming languages and technologies, a valuable skill in the fast-paced tech industry.
 
-My experience at Makers Academy equipped me with a strong foundation in software development and problem-solving, and I'm eager to apply these skills to real-world projects and challenges in the field.
-
-## Qualifications
+### Any other qualifications
 - Qualified Forklift driver (Bendi)
 - Proficient in Microsoft Applications
 - Learning to code using Android Studio (Google)
