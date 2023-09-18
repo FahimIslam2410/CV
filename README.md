@@ -8,6 +8,7 @@ I'm a hands-on enthusiast with a background in warehouse management and a genuin
 | Name                                    | Description                                 | Tech/tools        |
 | --------------------------------------- | --------------------------------------------| ----------------- |
 | **[Weather Now](https://github.com/FahimIslam2410/Weather-Now)**|Weather Now is a user-friendly weather app that provides real-time weather information for any city you choose, with a mobile-friendly interface for on-the-go access.| MERN Stack        |
+| **[MERN Template](https://github.com/FahimIslam2410/MERN-Template)**|It's your go-to MERN stack template for web development, to kickstart your projects with ease.| MERN Stack        |
 | **[Road Trip Planner by RoadJunkies](https://github.com/FahimIslam2410/Road-Trip-Planner)**|A website app that lets users input start and end points, add waypoints, and receive attraction suggestions based on proximity. They can save routes for future trips, simplifying travel planning.| MERN Stack        |
 | **[Bank Tech Test](https://github.com/FahimIslam2410/Bank-Tech-Test)**|Technical test. Program offers core bank features including deposit/withdraw and print formatted statements|JavaScript, Node, Jest|
 | **[Acebook](https://github.com/FahimIslam2410/acebook-mern-water)**                             | A social platform for user registration, login, post creation, editing, deletion, liking, and friend requests.| MERN Stack        |
@@ -62,16 +63,22 @@ During my time at Makers Academy, I had the opportunity to develop valuable skil
 
 My experience at Makers Academy equipped me with a strong foundation in software development and problem-solving, and I'm eager to apply these skills to real-world projects and challenges in the field.
 
-#### Your University / College (start_date to end_date)
+## Qualifications
+- Qualified Forklift driver (Bendi)
+- Proficient in Microsoft Applications
+- Learning to code using Android Studio (Google)
+- Intermediate skills in:
+  - Photoshop
+  - After Effects
+  - Premiere Pro
+  - Final Cut Pro
+  - Logic Pro
+  - Blender
+  - Adobe Animate
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+## Education
+- Tower Hamlets College (New City College) July 2018
+- Creative Digital Media Production
+  - Merit/Merit/Pass
+- Creative Digital Media Production
+  - Pass/Pass
