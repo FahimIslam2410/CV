@@ -8,7 +8,7 @@ I'm a hands-on enthusiast with a background in warehouse management and a genuin
 | Name                                    | Description                                 | Tech/tools        |
 | --------------------------------------- | --------------------------------------------| ----------------- |
 | **[Weather Now](https://github.com/FahimIslam2410/Weather-Now)**|Weather Now is a user-friendly weather app that provides real-time weather information for any city you choose, with a mobile-friendly interface for on-the-go access.| MERN Stack        |
-| **[MERN Template](https://github.com/FahimIslam2410/MERN-Template)**|It's your go-to MERN stack template for web development, to kickstart your projects with ease.| MERN Stack        |
+| **[MERN Template](https://github.com/FahimIslam2410/MERN-Template)**|A go-to MERN stack template for web development, to kickstart projects with ease.| MERN Stack        |
 | **[Road Trip Planner by RoadJunkies](https://github.com/FahimIslam2410/Road-Trip-Planner)**|A website app that lets users input start and end points, add waypoints, and receive attraction suggestions based on proximity. They can save routes for future trips, simplifying travel planning.| MERN Stack        |
 | **[Bank Tech Test](https://github.com/FahimIslam2410/Bank-Tech-Test)**|Technical test. Program offers core bank features including deposit/withdraw and print formatted statements|JavaScript, Node, Jest|
 | **[Acebook](https://github.com/FahimIslam2410/acebook-mern-water)**                             | A social platform for user registration, login, post creation, editing, deletion, liking, and friend requests.| MERN Stack        |
